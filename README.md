@@ -19,3 +19,13 @@ This repository contains a set of resources, tutorials and instructions to set u
 1. [Protect an Nginx Server with Fail2Ban on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-an-nginx-server-with-fail2ban-on-ubuntu-14-04)
 2. [Set up Fail2Ban + WordPress + Nginx](https://konstantin.blog/2014/fail2ban-wordpress-nginx/)
 3. [Integrate fail2ban with CloudFlare API v4 Guide](https://guides.wp-bullet.com/integrate-fail2ban-cloudflare-api-v4-guide/)
+
+## Monit tutorials
+
+1. [Install Monit System Monitor on Ubuntu 18.04 / 16.04 LTS](https://websiteforstudents.com/install-monit-system-monitor-on-ubuntu-18-04-16-04-lts/)
+2. [How To Install and Configure Monit](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-monit)
+
+## Mailserver
+
+1. [Setting up Postfix TLS with Let’s Encrypt](https://www.svennd.be/setting-up-postfix-tsl-with-lets-encrypt/)
+2. [How to Set Up a Mail Relay with Postfix and Mailgun on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-mail-relay-with-postfix-and-mailgun-on-ubuntu-16-04)
