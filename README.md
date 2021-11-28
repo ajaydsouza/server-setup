@@ -14,9 +14,11 @@ This repository contains a set of resources, tutorials and instructions to set u
 1. [Set Up a Firewall with UFW on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04)
 2. [How to secure an Ubuntu 16.04 LTS server](https://www.thefanclub.co.za/how-to/how-secure-ubuntu-1604-lts-server-part-1-basics)
 
-## Webinoly - Optimized LEMP Web Server
+## Setting up LEMP
 
-1. [Webinoly](https://webinoly.com/en/)
+1. [EasyEngine](https://easyengine.io)
+2. [Webinoly](https://webinoly.com/en/)
+3. [WordOps](http://wordops.net)
 
 ## Fail2Ban
 
