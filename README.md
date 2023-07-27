@@ -7,7 +7,7 @@ This repository contains a set of resources, tutorials and instructions to set u
 1. [Create a droplet on DigitalOcean](https://www.digitalocean.com/docs/droplets/how-to/create/)
 2. [Add SSH keys to the droplet](https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/)
 3. [Connect to your Droplet with OpenSSH on Linux or macOS](https://www.digitalocean.com/docs/droplets/how-to/connect-with-ssh/openssh/)
-4. [Initial Server Setup with Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
+4. [Initial Server Setup with Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-22-04)
 
 ## Securing the server
 
