@@ -29,7 +29,8 @@ This repository contains a set of resources, tutorials and instructions to set u
 ## Monit
 
 1. [Install Monit System Monitor on Ubuntu 18.04 / 16.04 LTS](https://websiteforstudents.com/install-monit-system-monitor-on-ubuntu-18-04-16-04-lts/)
-2. [How To Install and Configure Monit](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-monit)
+2. [Install Monit on Ubuntu 22.04](https://linux.how2shout.com/how-to-install-monit-monitoring-on-ubuntu-22-04/)
+3. [How To Install and Configure Monit](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-monit)
 
 ## Mailserver
 
