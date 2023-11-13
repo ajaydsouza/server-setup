@@ -35,8 +35,9 @@ This repository contains a set of resources, tutorials and instructions to set u
 ## Mailserver
 
 1. [How To Install and Configure Postfix on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-22-04)
-2. [Setting up Postfix TLS with Let’s Encrypt](https://www.svennd.be/setting-up-postfix-tsl-with-lets-encrypt/)
-3. [How to Set Up a Mail Relay with Postfix and Mailgun on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-mail-relay-with-postfix-and-mailgun-on-ubuntu-16-04)
+2. [How To Install and Configure Postfix as a Send-Only SMTP Server on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-22-04)
+3. [Setting up Postfix TLS with Let’s Encrypt](https://www.svennd.be/setting-up-postfix-tsl-with-lets-encrypt/)
+4. [How to Set Up a Mail Relay with Postfix and Mailgun on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-mail-relay-with-postfix-and-mailgun-on-ubuntu-16-04)
 
 ## Cloudflare
 
