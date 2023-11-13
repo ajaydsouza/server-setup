@@ -13,6 +13,7 @@ This repository contains a set of resources, tutorials and instructions to set u
 
 1. [Set Up a Firewall with UFW on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04)
 2. [How to secure an Ubuntu 16.04 LTS server](https://www.thefanclub.co.za/how-to/how-secure-ubuntu-1604-lts-server-part-1-basics)
+3. [How to setup email alerts on Root login](https://fedingo.com/how-to-setup-email-alerts-for-root-login-in-linux/)
 
 ## Setting up LEMP
 
